@@ -1,4 +1,4 @@
-# Angular Service To Share Data Between Controllers
+Angular Service To Share Data Between Controllers
 =============================
 This is a simple AngularJS service to to share data between Controllers.
 
